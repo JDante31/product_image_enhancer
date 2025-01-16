@@ -34,6 +34,7 @@ data/*
 output/
 notebooks/*.png
 notebooks/*.csv
+notebooks/visualizations.ipynb
 models/*.joblib
 
 # IDE
